@@ -562,8 +562,8 @@ input[type="submit"]:hover{
 
 .talk {
 	
-	right:480px; 
-	bottom:140px; 
+	right:17%; 
+	bottom:18%; 
 	position:fixed;
 	
 	
@@ -575,8 +575,8 @@ input[type="submit"]:hover{
 }
 
 .talk1{
-	right:470px;
-	bottom:60px; 
+	right:17%;
+	bottom:11%; 
 	position:fixed;
 	
 }
